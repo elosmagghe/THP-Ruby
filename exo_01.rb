@@ -1,0 +1,2 @@
+puts "Bonjour, monde !"
+
